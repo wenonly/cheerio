@@ -4,6 +4,5 @@ npm-debug.log
 .docusaurus
 .cache-loader
 /coverage
-/lib
 /website/docs/api
 /website/build

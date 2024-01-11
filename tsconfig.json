@@ -2,8 +2,9 @@
   "compilerOptions": {
     /* Basic Options */
     "target": "es5",
-    "module": "node16",
+    "module": "ES2015",
     "lib": ["ES2015.Core"],
+    "moduleResolution": "Bundler",
     "declaration": true,
     "declarationMap": true,
     "sourceMap": true,
